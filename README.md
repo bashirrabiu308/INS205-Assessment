@@ -32,7 +32,6 @@ INS205-Assessment/
 │
 ├── INS205_Assessment.html
 ├── README.md
-└── profile.jpg (optional)
 ```
 
 ## How to Run
@@ -43,14 +42,14 @@ INS205-Assessment/
 
 ## Author
 
-**Bashir Rabiu**
+**Bashir Rabiu Idris**
 
 Computer Science Student
 University of Jos
 
 ## Course
 
-INS205 – Introduction to Web Technologies
+INS205 – Application Design and Development
 
 ## License
 
